@@ -1,4 +1,4 @@
-#Created by: Jared Christopher
+#Created by us: Jared Christopher
 
 #iterate through a list
 colors = ["red", "green", "yellow", "blue"]
