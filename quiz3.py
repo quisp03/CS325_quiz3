@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 #Created by: Jared Christopher and Marquis Pritchett
+=======
+>>>>>>> origin/main
 
 #iterate through a list
 colors = ["red", "green", "yellow", "blue"]
