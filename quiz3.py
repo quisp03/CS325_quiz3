@@ -6,6 +6,6 @@ for x in colors:
     print(x)
     
 #iterate through a string
-s = "red"
+s = "green"
 for x in s:
     print(x)
