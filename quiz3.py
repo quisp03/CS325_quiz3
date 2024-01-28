@@ -1,4 +1,4 @@
-#Created by: Jared Christopher
+#Created by: Jared Christopher and Marquis Pritchett
 
 #iterate through a list
 colors = ["red", "green", "yellow", "blue"]
